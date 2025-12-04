@@ -14,6 +14,7 @@
 
 Ссылка на OpenAPI-спецификацию: https://raw.githubusercontent.com/arinanikiskina27-cloud/my_repozitory/refs/heads/main/docs/api-specification/openapi.yaml
 
+
 ИНСТРУКЦИЯ ПО РЕНДЕРИНГУ ДИАГРАММ:
 1) Включите VPN
 2) Скопируйте код диаграммы
